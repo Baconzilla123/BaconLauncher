@@ -2,5 +2,5 @@ cd ../../
 
 echo running in %cd%
 
-py Utils/!Application/launcher.py
+py Utils/App/launcher.py
 PAUSE
